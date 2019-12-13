@@ -1,2 +1,2 @@
 # trash-repo
-not mind me , just learning git
+don't mind me , just learning git
