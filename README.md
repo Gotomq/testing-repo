@@ -19,25 +19,73 @@
 console.table(undefined)
 ```
 ### Bulletin Board
+```javascript
+console.table(undefined)
+```
 ### Comentarios
+```javascript
+console.table(undefined)
+```
 
 ## S.O.L.I.D
 ### S — Single Responsibility
+```javascript
+console.table(undefined)
+```
 ### O — Open-Closed
+```javascript
+console.table(undefined)
+```
 ### L — Liskov Substitution
+```javascript
+console.table(undefined)
+```
 ### I — Interface Segregation
+```javascript
+console.table(undefined)
+```
 ### D — Dependency Inversion
+```javascript
+console.table(undefined)
+```
 
 ## DDD Domain Driven Design
 ### Lenguaje Ubicuo: Ubiquitous Language
+```javascript
+console.table(undefined)
+```
 ### Capas de la arquitectura
+```javascript
+console.table(undefined)
+```
 ### Entidades (Entities).
+```javascript
+console.table(undefined)
+```
 ### Objetos de valor (Value Objects).
+```javascript
+console.table(undefined)
+```
 ### Servicios (Services).
+```javascript
+console.table(undefined)
+```
 ### Módulos (Modules).
+```javascript
+console.table(undefined)
+```
 ### Agregados (Aggregates).
+```javascript
+console.table(undefined)
+```
 ### Factorías (Factories).
+```javascript
+console.table(undefined)
+```
 ### Repositorios (Repository).
+```javascript
+console.table(undefined)
+```
 
 
 ---
