@@ -25,7 +25,15 @@
 ### D — Dependency Inversion
 
 ## DDD Domain Driven Design
-
+### Lenguaje Ubicuo: Ubiquitous Language
+### Capas de la arquitectura
+### Entidades (Entities).
+### Objetos de valor (Value Objects).
+### Servicios (Services).
+### Módulos (Modules).
+### Agregados (Aggregates).
+### Factorías (Factories).
+### Repositorios (Repository).
 
 
 ---
