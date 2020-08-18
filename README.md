@@ -86,19 +86,14 @@ console.table(undefined)
 console.table(undefined)
 ```
 ### Módulos (Modules).
+Agrupando un numero de clases o componentes de react formamos modulos que luego podemos utilizarlos en conjunto para alguna funcionalidad.
 
-```javascript
-console.table(undefined)
-```
 ### Agregados (Aggregates).
 Los datos de la comunidad, post y multiples usuarios. Toda esa informacion se encuentra en los Posts ya que estas entidades son dependientes entre ella.
 ```javascript
 console.table(undefined)
 ```
-### Factorías (Factories).
-```javascript
-console.table(undefined)
-```
+
 ### Repositorios (Repository).
 ```javascript
 console.table(undefined)
