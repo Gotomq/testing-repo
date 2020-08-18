@@ -17,7 +17,7 @@
 
 ## S.O.L.I.D
 
-## DDD
+## DDD Domain Driven Design
 
 ---
 [redux]: https://redux.js.org/
