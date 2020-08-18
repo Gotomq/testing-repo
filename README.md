@@ -14,6 +14,8 @@
 <br />
 <br />
 ## Estilos de programacion
+### Codegolf
+### Bulletin Board
 
 ## S.O.L.I.D
 
