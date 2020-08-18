@@ -1,4 +1,4 @@
-# Petbook 🐕
+# Petbook
 
 <br />
 
