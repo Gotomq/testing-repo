@@ -59,6 +59,9 @@ export const getCommunities = async () => {
 export const subscribeUserToCommunity = async (userId, communityId) => {
   const userRef = firestore.doc("users/" + userId);
   ...
+
+export const createUserProfileDocument = async (userAuth, additionalData) => {
+  ...
 ```
 ### Capas de la arquitectura
 ```javascript
