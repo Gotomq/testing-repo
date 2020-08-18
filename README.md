@@ -13,6 +13,10 @@
 [<img align="left" alt="Mui" width="26px" src="https://material-ui.com/static/logo_raw.svg" />][mui]
 <br />
 <br />
+## Próposito del proyecto
+## Funcionalidades
+## Práctica de código legible aplicadas
+
 ## Estilos de programacion
 ### Codegolf
 ```javascript
@@ -68,11 +72,12 @@ export const createUserProfileDocument = async (userAuth, additionalData) => {
 console.table(undefined)
 ```
 ### Entidades (Entities).
-En esta aplicacion los usuarios son las entidades, junto con las publicaciones y los comentarios que esta puede tener ya que todas estas mantienen un estado y comportamiento mas all\'a
+En esta aplicacion los usuarios son las entidades, junto con las publicaciones y los comentarios que esta puede tener ya que todas estas mantienen un estado y comportamiento mas allá. 
 ```javascript
 console.table(undefined)
 ```
 ### Objetos de valor (Value Objects).
+El tiempo transcurrido al realizar una opcion
 ```javascript
 console.table(undefined)
 ```
@@ -81,10 +86,12 @@ console.table(undefined)
 console.table(undefined)
 ```
 ### Módulos (Modules).
+
 ```javascript
 console.table(undefined)
 ```
 ### Agregados (Aggregates).
+Los datos de la comunidad, post y multiples usuarios. Toda esa informacion se encuentra en los Posts ya que estas entidades son dependientes entre ella.
 ```javascript
 console.table(undefined)
 ```
