@@ -17,7 +17,7 @@
 ## Funcionalidades
 ## Práctica de código legible aplicadas
 
-## Estilos de programacion
+## Estilos de programacion aplicados
 ### Codegolf
 ```javascript
 console.table(undefined)
@@ -31,7 +31,7 @@ console.table(undefined)
 console.table(undefined)
 ```
 
-## S.O.L.I.D
+## Principios S.O.L.I.D aplicados
 ### S — Single Responsibility
 ```javascript
 console.table(undefined)
@@ -53,7 +53,7 @@ console.table(undefined)
 console.table(undefined)
 ```
 
-## DDD Domain Driven Design
+## Conceptos DDD aplicados
 ### Lenguaje Ubicuo: Ubiquitous Language
 ```javascript
 export const getCommunities = async () => {
