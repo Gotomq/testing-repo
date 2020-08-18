@@ -52,7 +52,13 @@ console.table(undefined)
 ## DDD Domain Driven Design
 ### Lenguaje Ubicuo: Ubiquitous Language
 ```javascript
-console.table(undefined)
+export const getCommunities = async () => {
+  const communitiesRef = firestore.collection("communities");
+  ...
+  
+export const subscribeUserToCommunity = async (userId, communityId) => {
+  const userRef = firestore.doc("users/" + userId);
+  ...
 ```
 ### Capas de la arquitectura
 ```javascript
