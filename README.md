@@ -16,6 +16,11 @@
 [<img align="left" alt="Mui" width="26px" src="https://material-ui.com/static/logo_raw.svg" />][mui]
 <br />
 <br />
+## Estilos de programacion
+
+## S.O.L.I.D
+
+## DDD
 
 ---
 [redux]: https://redux.js.org/
