@@ -13,8 +13,11 @@
 [<img align="left" alt="Mui" width="26px" src="https://material-ui.com/static/logo_raw.svg" />][mui]
 <br />
 <br />
+
 ## Próposito del proyecto
+
 ## Funcionalidades
+
 ## Práctica de código legible aplicadas
 
 ## Estilos de programacion aplicados
@@ -33,25 +36,22 @@ console.table(undefined)
 
 ## Principios S.O.L.I.D aplicados
 ### S — Single Responsibility
-```javascript
-console.table(undefined)
-```
+Cada componente que utilizamos maneja una serie de responsabilidades que no implica a otro
+
 ### O — Open-Closed
 ```javascript
 console.table(undefined)
 ```
 ### L — Liskov Substitution
 ```javascript
-console.table(undefined)
+console.table(undefined) cube, rec
 ```
+
 ### I — Interface Segregation
-```javascript
-console.table(undefined)
-```
+Cuando una clase tiene que cumplir muchos propositos
+
 ### D — Dependency Inversion
-```javascript
-console.table(undefined)
-```
+
 
 ## Conceptos DDD aplicados
 ### Lenguaje Ubicuo: Ubiquitous Language
@@ -67,38 +67,17 @@ export const subscribeUserToCommunity = async (userId, communityId) => {
 export const createUserProfileDocument = async (userAuth, additionalData) => {
   ...
 ```
-### Capas de la arquitectura
-```javascript
-console.table(undefined)
-```
 ### Entidades (Entities).
 En esta aplicacion los usuarios son las entidades, junto con las publicaciones y los comentarios que esta puede tener ya que todas estas mantienen un estado y comportamiento mas allá. 
-```javascript
-console.table(undefined)
-```
+
 ### Objetos de valor (Value Objects).
-El tiempo transcurrido al realizar una opcion
-```javascript
-console.table(undefined)
-```
-### Servicios (Services).
-```javascript
-console.table(undefined)
-```
+Los tokens que utilizamos para iniciar o cerrar sesion
+
 ### Módulos (Modules).
 Agrupando un numero de clases o componentes de react formamos modulos que luego podemos utilizarlos en conjunto para alguna funcionalidad.
 
 ### Agregados (Aggregates).
 Los datos de la comunidad, post y multiples usuarios. Toda esa informacion se encuentra en los Posts ya que estas entidades son dependientes entre ella.
-```javascript
-console.table(undefined)
-```
-
-### Repositorios (Repository).
-```javascript
-console.table(undefined)
-```
-
 
 ---
 [redux]: https://redux.js.org/
