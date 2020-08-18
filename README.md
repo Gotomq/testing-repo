@@ -15,7 +15,11 @@
 <br />
 ## Estilos de programacion
 ### Codegolf
+```javascript
+console.table(undefined)
+```
 ### Bulletin Board
+### Comentarios
 
 ## S.O.L.I.D
 ### S — Single Responsibility
