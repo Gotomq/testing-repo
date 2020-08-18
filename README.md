@@ -18,8 +18,15 @@
 ### Bulletin Board
 
 ## S.O.L.I.D
+### S — Single Responsibility
+### O — Open-Closed
+### L — Liskov Substitution
+### I — Interface Segregation
+### D — Dependency Inversion
 
 ## DDD Domain Driven Design
+
+
 
 ---
 [redux]: https://redux.js.org/
