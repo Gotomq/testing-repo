@@ -68,6 +68,7 @@ export const createUserProfileDocument = async (userAuth, additionalData) => {
 console.table(undefined)
 ```
 ### Entidades (Entities).
+En esta aplicacion los usuarios son las entidades, junto con las publicaciones y los comentarios que esta puede tener ya que todas estas mantienen un estado y comportamiento mas all\'a
 ```javascript
 console.table(undefined)
 ```
